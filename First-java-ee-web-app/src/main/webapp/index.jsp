@@ -1,5 +1,9 @@
 <html>
+<head>
+    <title>Test</title>
+</head>
 <body>
-<h2>Hello World!</h2>
+It's test servlet page!
 </body>
+<a href="/main">Main</a>
 </html>
