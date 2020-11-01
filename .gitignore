@@ -1,2 +1,6 @@
 # Project exclude paths
 /First-java-ee-web-app/target/
+/target
+/.idea
+/*.iml
+/out
